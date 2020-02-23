@@ -1,0 +1,9 @@
+.main-div{
+    max-width:600px;
+    margin:auto;
+    padding:10px;
+}
+.d-flex{
+    width:100%;
+    justify-content: space-between;
+}

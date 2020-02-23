@@ -1,0 +1,20 @@
+.add-item-form{
+    position: fixed;
+    display:Flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    border-top: solid 2px #dfdfdf;
+    padding: 10px!important;
+    left:0;
+    right:0;
+    bottom:0;
+    background: white;
+}
+.ad_it{
+    font-size: 20px;
+    margin: 0;
+}
+*{
+    user-select: none;
+}
